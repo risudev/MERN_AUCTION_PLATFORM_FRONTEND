@@ -58,7 +58,7 @@ A full-stack **Auction Platform** built with the **MERN stack** and **TailwindCS
 
 ## Deployment
 
-- **Frontend**: https://auctionplatformfrontend.netlify.app/
+- **Frontend**: https://spontaneous-belekoy-9cf309.netlify.app/
 
 Push all code to GitHub and submit your URLs for assessment.
 
