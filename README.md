@@ -46,7 +46,7 @@ A full-stack **Auction Platform** built with the **MERN stack** and **TailwindCS
 
 ## Usage
 
-- Open the application in your browser at https://auctionplatformfrontend.netlify.app/.
+- Open the application in your browser at https://spontaneous-belekoy-9cf309.netlify.app/.
 
 - Register as a User or Seller.
 
